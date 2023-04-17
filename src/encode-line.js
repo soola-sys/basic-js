@@ -25,9 +25,8 @@ function encodeLine(str) {
    }
  
  }
- return arr.filter((el) => el !== 1).join("")
+ return arr.filter((el) => el !== 1).join("");
 }
-
 module.exports = {
   encodeLine
 };

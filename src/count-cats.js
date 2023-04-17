@@ -14,6 +14,18 @@ const { NotImplementedError } = require('../extensions/index.js');
  * ]) => 3`
  *
  */
+// function countCats(matrix) {
+//   let counter = 0;
+//   matrix.map((el) => {
+//     if (typeof el !== 'number') {
+//       counter++;
+//     }
+//     else {
+//       return 0
+//     }
+//   })
+//   return counter
+// }
 function countCats(matrix) {
   let counter = 0;
   for(let i = 0 ; i < matrix.length ;i++){
