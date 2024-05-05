@@ -67,6 +67,8 @@ The approximate age of the sample is calculated by measuring the **ratio** of th
 
 [Read about method](https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Nuclear_Chemistry/Nuclear_Kinetics/Half-Lives_and_Radioactive_Decay_Kinetics#section_2)
 
+[Reserved link](https://web.archive.org/web/20230522040038/https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_%28Physical_and_Theoretical_Chemistry%29/Nuclear_Chemistry/Nuclear_Kinetics/Half-Lives_and_Radioactive_Decay_Kinetics#section_2)
+
 ---
 <details>
 
@@ -375,9 +377,9 @@ Write your code in `src/get-email-domain.js`.
 
 ---
 
-### **(ST) Is MAC-48 Adress?**
+### **(ST) Is MAC-48 Address?**
 The **MAC-48 address** is six groups of two hexadecimal digits (0 to 9 or A to F) separated by hyphens.
-Your task is to implement function that accepts **string** (`inputString`) and returns `true` if **string** is valid **MAC-48 adress**.  
+Your task is to implement function that accepts **string** (`inputString`) and returns `true` if **string** is valid **MAC-48 address**.  
 
 For example:
 
